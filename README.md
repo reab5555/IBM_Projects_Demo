@@ -1,3 +1,3 @@
-# IBM Dashboard Project Demo
+# IBM Dashboard Projects Demo
 
-## Google Looker - IBM Dashboard Project Demo
+## IBM Data Analysis and Data Science Projects Demonstrations
